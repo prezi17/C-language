@@ -1,10 +1,4 @@
-/***************************************
-* EECS2031B - Lab7*
-* Author: Rajwinder kaur, Rajwinder kaur *
-* Email: rkaur3@my.yorku.ca	*
-* eecs_username: rkaur3 *
-* York Student #: 216907602
-****************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
